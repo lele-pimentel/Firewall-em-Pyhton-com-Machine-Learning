@@ -35,5 +35,5 @@ A interface possui três funcionalidades principais:
 
 ## Como Executar
 
-```bash
-python FIREWALL.py
+<img width="922" height="528" alt="image" src="https://github.com/user-attachments/assets/4c4d4f07-938b-4547-919c-0817de67d80f" />
+
