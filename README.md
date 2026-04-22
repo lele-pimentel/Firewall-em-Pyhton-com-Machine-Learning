@@ -1,5 +1,3 @@
-# Firewall-em-Pyhton-com-Machine-Learning
-
 # Firewall Inteligente com Árvore de Decisão
 
 ## Sobre o Projeto
